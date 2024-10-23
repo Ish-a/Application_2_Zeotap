@@ -48,5 +48,4 @@ on the url, edit the "http://localhost:5000" to "http://localhost:5000/api/get-w
 
 ![Screenshot 2024-10-23 191544](https://github.com/user-attachments/assets/f1af2e4a-fd2b-468e-9727-2faff6645587)
 
-
 you will see the backend data stored.
